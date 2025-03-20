@@ -1,9 +1,9 @@
 {
     "name": "Dae_BP",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "title": "Dae's Book Collection",
     "author": "Fr_Dae",
-    "contact": "Dae#5125 (discord)",
+    "contact": "Dae.anthony@gmail.com",
     "homepage": "https://unionrolistes.fr/",
     "factorio_version": "1.0",
     "dependencies": ["base", "? IncendiaryMunitions >= 0.0.1", "? uniturret_Fix >= 0.0.1"],
