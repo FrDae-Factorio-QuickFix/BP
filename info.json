@@ -1,0 +1,11 @@
+{
+    "name": "Dae_BP",
+    "version": "0.1.1",
+    "title": "Dae's Book Collection",
+    "author": "Fr_Dae",
+    "contact": "Dae#5125 (discord)",
+    "homepage": "https://unionrolistes.fr/",
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 1.0.0", "? IncendiaryMunitions >= 0.0.1", "? uniturret_Fix >= 0.0.1"],
+    "description": "Collection de livres de Blueprint. a extraire soit même depuis votre dossier /factorio/mod/"
+}
