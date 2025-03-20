@@ -50,4 +50,10 @@ Version: 0.1.7
 Version: 0.1.8
 
   mod:
-  - combat robot capsule
+    - combat robot capsule
+---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+
+  mod:
+    - changelog fix
+
