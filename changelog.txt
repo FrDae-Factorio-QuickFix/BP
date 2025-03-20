@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.17
+
+  Mod:
+    - Add tiberium Dawn recipe
+    - Fix some recipe on construction, elec, train, war
+    - sub-chapter for "modded recipes"
+---------------------------------------------------------------------------------------------------
 Version: 0.1.16
 
   Mod:
