@@ -33,7 +33,7 @@ Version: 0.1.4
 Version: 0.1.5
 
   mod:
-    - Wagon Design 1.29  correction de munitions incendiaires, water turret, 
+    - Wagon Design 1.29  correction de munitions incendiaires, water turret,
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.6
@@ -45,7 +45,7 @@ Version: 0.1.6
 Version: 0.1.7
 
   mod:
-    - Update somes blueprint (blue Circuit, red chest, War Book, Mains Bus, Blue Science, 
+    - Update somes blueprint (blue Circuit, red chest, War Book, Mains Bus, Blue Science,
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.8
 
@@ -56,4 +56,38 @@ Version: 0.1.9
 
   mod:
     - changelog fix
+---------------------------------------------------------------------------------------------------
+Version: 0.1.10
 
+  mod:
+    - 1.1
+---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+
+  wagon:
+    - ciment béton grille béton, mur béton
+    - vehicule
+    - asplate + gazoil
+    - missile explosif
+    - missile tiberium
+    - munition uranium
+    - munition tiberim
+    - tourelle univelles
+    - obus d'artillerie
+    - four fer cuivre acier (thermique et electrique)
+    - capsule de robot
+    - suppression des potion rouge reverse
+    - suppression des mine reverse
+    - modification uranium cell
+    - Street lamp
+
+  electricity:
+    - nouveau reacteur "fleur"
+    - power KS (eolien)
+
+  construction:
+    - Spider foot
+    - organisation
+
+  WAR:
+    - the wall update
