@@ -46,3 +46,8 @@ Version: 0.1.7
 
   mod:
     - Update somes blueprint (blue Circuit, red chest, War Book, Mains Bus, Blue Science, 
+---------------------------------------------------------------------------------------------------
+Version: 0.1.8
+
+  mod:
+  - combat robot capsule
